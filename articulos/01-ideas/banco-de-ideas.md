@@ -48,6 +48,11 @@ Tesis: las fundaciones suelen hablarle a las instituciones y olvidan a las perso
 
 ## Pozo de ideas
 
+### Las redes sociales se hicieron para las personas
+Personas · Pilar · Emprendedores y pymes
+Tesis: una marca encaja en redes cuando deja de vender todo el tiempo y empieza a enamorar, enseñar y conversar.
+Ángulo propio: salió en la nota de voz del artículo de marca agéntica. Germán ya tiene el discurso armado.
+
 ### Lo que un cliente siente antes de comprarte
 Personas · Corto · Emprendedores
 Tesis: la decisión se toma en la capa emocional y se justifica después con razones.

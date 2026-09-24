@@ -98,6 +98,8 @@ Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar
 
 ## Notas y fuentes
 
+- Germán habla naturalmente con la forma "no es X, es Y". En esta parte aparece dos veces. En el borrador se conserva una sola, probablemente la de las redes sociales.
+
 - Fit, Sexy, Smart se puede leer sobre Feeling • Doing • Thinking™. Sexy con Feeling, Fit con Doing, Smart con Thinking. Si se confirma, Feeling • Doing • Thinking™ sigue siendo el método y Fit, Sexy, Smart describe cómo se comporta la marca cuando está bien construida. Así no compiten dos marcos.
 
 - Tensión a resolver entre la parte 2 y la parte 3. En la 2 la IA aplica la marca a su manera, como el imprentero. En la 3 la IA "implementa la marca de manera correcta". Las dos cosas pueden ser ciertas si la tesis es que la IA la aplica bien solo cuando la marca está cargada con instrucciones claras.

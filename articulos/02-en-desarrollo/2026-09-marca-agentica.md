@@ -117,6 +117,12 @@ Ojo: esta parte suena distinta al resto de las notas de voz. Tiene frases más a
 
 Lo que aporta: la confesión de haber evitado las redes por falta de estrategia y el cambio interno. Es lo más humano de toda la nota.
 
+### Parte 9. Nueva definición de marca agéntica
+
+> Para mí una marca agéntica es una marca en la cual se puede construir desde cero, pero la gran diferencia está en el desarrollo de sus valores, su forma de comunicación, pero básicamente es desarrollar un nuevo ecosistema. Un ecosistema que va a ser trabajado por IAS, por procesos y por personas. ¿Para qué? Para poder validar de mejor manera una automatización, una forma de pensar, una creatividad distinta y estrategias que complementen justamente con ese factor que la diferencia. Es como tener la oportunidad de crear un mundo distinto o un gobierno donde ese gobierno habla, tiene una forma de pensar, tiene colores, tiene una forma de comunicar y donde todas las personas que viven ahí, que serían como ciertos agentes, puedan comunicar y entender exactamente cómo es esa marca. Básicamente es la puerta de entrada a un nuevo universo, a una nueva eh, dimensión, donde las marcas que entren primero serán las marcas que tengan los mejores resultados.
+
+Lo que aporta: la marca agéntica como un ecosistema de personas, procesos e IA, y la metáfora del país con su propio gobierno, donde todos sus habitantes, incluidos los agentes, entienden cómo es la marca. Conecta con la analogía de los gobiernos de la parte 1. Reemplaza la definición propuesta por Claude.
+
 ## Borrador
 
 # Hice manuales de marca durante veinte años. Ya no los haría igual.
@@ -145,7 +151,11 @@ Un manual tradicional se escribió pensando en diseñadores. Dice qué color usa
 
 ## Qué es una marca agéntica
 
-Una marca agéntica es una marca que puede trabajar sola. Las herramientas de inteligencia artificial la entienden y la aplican sin que tú estés encima, y sigue siendo ella misma.
+Para mí una marca agéntica es un ecosistema. Lo trabajan juntos las personas, los procesos y la inteligencia artificial.
+
+Me gusta pensarla como un país. Tiene su gobierno, su forma de hablar, su forma de pensar, sus colores y su manera de comunicar. Y todos los que viven ahí entienden exactamente cómo es. Algunos de esos habitantes son personas. Otros son agentes de IA, que son programas que hacen tareas por ti, como responder un mensaje o preparar una publicación.
+
+Fíjate que es lo contrario de los gobiernos que te contaba al principio. Aquí la identidad está tan clara que no depende de quién esté a cargo.
 
 Para eso la IA tiene que conocer su personalidad, su tono y su voz. Tiene que saber qué valores tiene la marca, qué siente y cómo piensa. Lo que hay que hacer, en el fondo, es humanizar la marca.
 
@@ -196,7 +206,7 @@ Si quieres saber qué tan lista está tu marca para trabajar con IA, escríbeme.
 
 ## Notas y fuentes
 
-- Pendientes del borrador 1. Pomelli confirmado por Germán. Sumar, si aparece, un detalle visual del caso de la imprenta. Confirmar que el párrafo sobre la guía de voz, las muestras y el revisor describe bien lo que hace Germán, porque lo propuso Claude y no salió de la nota de voz. Germán va a dictar de nuevo la definición de marca agéntica.
+- Pendientes del borrador 1. Pomelli confirmado por Germán. Sumar, si aparece, un detalle visual del caso de la imprenta. Confirmar que el párrafo sobre la guía de voz, las muestras y el revisor describe bien lo que hace Germán, porque lo propuso Claude y no salió de la nota de voz. Definición de marca agéntica reemplazada por la de la parte 9. La frase final sobre los gobiernos la propuso Claude para cerrar el círculo con la parte 1, falta que Germán la apruebe. Se dejó fuera "las marcas que entren primero tendrán los mejores resultados" porque es una promesa difícil de sostener.
 
 - Germán habla naturalmente con la forma "no es X, es Y". En esta parte aparece dos veces. En el borrador se conserva una sola, probablemente la de las redes sociales.
 

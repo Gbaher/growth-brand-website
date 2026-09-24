@@ -1,12 +1,12 @@
 # Pilares editoriales
 
-Cinco territorios. Todo artículo pertenece a uno. Si un texto no encaja en ninguno, probablemente no nos ayuda a crecer.
+Todo artículo pertenece a uno de estos cinco territorios. Si un texto no encaja en ninguno, probablemente no ayuda a hacer crecer el negocio.
 
-La lógica es simple: Growth Brand™ explica cómo crece una marca, Feeling • Doing • Thinking™ explica cómo conecta. Los artículos existen para que esas dos ideas se vuelvan inevitables en la cabeza del lector.
+Growth Brand™ explica cómo crece una marca y Feeling • Doing • Thinking™ explica cómo conecta. Los artículos existen para que esas dos ideas se vuelvan inevitables en la cabeza del lector.
 
 ## 1. Marcas que se comportan como personas
 
-El corazón de la metodología Feeling • Doing • Thinking™. Por qué las marcas que suenan a empresa pierden, y cómo se ve una marca que siente, actúa y piensa.
+Aquí vive la metodología Feeling • Doing • Thinking™. Por qué pierden las marcas que suenan a empresa y cómo se ve una marca que siente, actúa y piensa.
 
 **Rol en el negocio:** diferenciación. Es el territorio que nadie más puede ocupar porque es propiedad intelectual propia.
 
@@ -14,15 +14,15 @@ El corazón de la metodología Feeling • Doing • Thinking™. Por qué las m
 
 ## 2. Sistemas de crecimiento
 
-Growth Brand™ en acción. Estrategia, posicionamiento, ecosistemas digitales, embudos. La idea central: el crecimiento no viene de piezas sueltas sino de un sistema que funciona sin que tengas que empujarlo todos los días.
+Growth Brand™ en acción. Estrategia, posicionamiento, ecosistemas digitales, embudos. La idea de fondo es que una marca crece cuando sus piezas trabajan juntas, sin que haya que empujarla todos los días.
 
-**Rol en el negocio:** autoridad estratégica. Demuestra que Germán no vende logos ni publicaciones, diseña sistemas.
+**Rol en el negocio:** autoridad estratégica. Muestra que el trabajo de Germán es diseñar sistemas completos.
 
 **Preguntas que responde:** ¿por qué publico mucho y no crezco? ¿Qué es un ecosistema digital de verdad? ¿Por dónde empiezo si todo parece urgente?
 
 ## 3. IA con humanidad
 
-Cómo usar inteligencia artificial para crecer sin volverte genérico. Tesis de fondo: la IA amplifica lo que ya eres. Si tu marca no tiene claridad, la IA solo produce ruido más rápido.
+Cómo usar inteligencia artificial para crecer sin volverte genérico. La IA amplifica lo que ya eres. Si tu marca no tiene claridad, la IA solo produce ruido más rápido.
 
 **Rol en el negocio:** relevancia y puerta a productos futuros como cursos, herramientas y SaaS.
 
@@ -40,7 +40,7 @@ Para consultores, coaches y profesionales independientes. Cómo convertir experi
 
 Casos reales, decisiones, errores y aprendizajes. Retail, fundaciones, fitness, redes profesionales. Veinte años de trabajo en Latinoamérica y Canadá contados desde adentro.
 
-**Rol en el negocio:** prueba. Convierte la metodología en evidencia.
+**Rol en el negocio:** prueba. Los casos son la evidencia de que la metodología funciona.
 
 **Preguntas que responde:** ¿esto funciona en la vida real? ¿Cómo se ve el proceso? ¿Qué cambió en la marca después?
 

@@ -1,8 +1,6 @@
 # Sistema editorial de germanbaher.com
 
-Este espacio no es un archivo de textos. Es la cocina donde las ideas se convierten en artículos que construyen autoridad y abren conversaciones de negocio.
-
-Cada artículo tiene un trabajo concreto: hacer que la persona correcta sienta algo, entienda algo nuevo y dé un paso hacia un Brand Diagnosis.
+Aquí las ideas se trabajan hasta convertirse en artículos para la web. Cada artículo tiene que acercar a alguien a pedir un Brand Diagnosis.
 
 ## Cómo se mueve una idea
 
@@ -12,7 +10,7 @@ Cada artículo tiene un trabajo concreto: hacer que la persona correcta sienta a
 
 **01-ideas.** Todo empieza en `banco-de-ideas.md`. Una idea entra con una tesis de una línea. Si no puedes escribir la tesis, todavía no es una idea, es un tema.
 
-**02-en-desarrollo.** Cuando una idea está madura, se crea un archivo propio copiando `00-sistema/plantilla-articulo.md`. Aquí vive el esquema, el borrador y las notas.
+**02-en-desarrollo.** Cuando una idea está madura, se crea un archivo propio copiando `00-sistema/plantilla-articulo.md`. Primero se graba una nota de voz contando la idea y el borrador se arma desde esa transcripción.
 
 **03-listos.** Texto revisado contra la guía de voz, con título, descripción y llamada a la acción definidos. Esperando fecha.
 
@@ -35,9 +33,18 @@ Aquí están las reglas del juego. Se leen antes de escribir.
 | Archivo | Para qué sirve |
 |---|---|
 | `pilares.md` | Los territorios sobre los que escribimos y por qué |
-| `voz.md` | Cómo suena Germán y qué nunca debe aparecer en un texto |
+| `voz.md` | Cómo suena Germán y qué delata un texto escrito por IA |
+| `muestras-de-voz.md` | Transcripciones y textos reales de Germán, la referencia de su forma de hablar |
 | `plantilla-articulo.md` | La estructura base de cada artículo |
+
+## Revisar un borrador
+
+```
+./articulos/revisar.sh articulos/02-en-desarrollo/2026-10-mi-articulo.md
+```
+
+Marca las rayas, las fórmulas repetidas y las palabras típicas de la IA. Después hay que leerlo en voz alta igual.
 
 ## Ritmo sugerido
 
-Un artículo pilar al mes y dos artículos cortos. Mejor pocos y profundos que muchos y olvidables. La autoridad se construye con consistencia, no con volumen.
+Un artículo pilar al mes y dos cortos. Si hay que elegir, conviene publicar menos y que cada texto esté bien trabajado.

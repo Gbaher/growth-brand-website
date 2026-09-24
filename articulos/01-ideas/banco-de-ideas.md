@@ -13,7 +13,7 @@ Tesis: una línea.
 
 ## Prioridad alta
 
-Estas cinco forman el primer bloque. Juntas presentan la metodología, el sistema y la voz. Son la base a la que enlazarán todos los artículos siguientes.
+Estas cinco forman el primer bloque. Presentan la metodología y el sistema, y todos los artículos que vengan después van a enlazar a ellas.
 
 ### Tu marca se ve bien. Ese es el problema.
 Personas · Pilar · Emprendedores y pymes
@@ -22,7 +22,7 @@ Tesis: una marca puede verse impecable y aun así no conectar, porque la estéti
 
 ### Las marcas deberían comportarse como personas
 Personas · Pilar · Todas
-Tesis: las personas sienten, actúan y piensan. Una marca que solo informa es una empresa hablando sola.
+Tesis: una marca que solo informa es una empresa hablando sola. Para conectar tiene que hacer sentir, hacer actuar y hacer pensar.
 Ángulo propio: el manifiesto de la metodología. Es el artículo al que todos los demás enlazan.
 
 ### Publicar todos los días no es una estrategia
@@ -32,7 +32,7 @@ Tesis: el volumen de contenido sin un sistema detrás agota a la marca y no la h
 
 ### La IA no te va a dar una voz. Te va a amplificar la que tienes.
 IA · Pilar · Consultores, coaches y pymes
-Tesis: sin claridad de marca, la IA solo produce ruido más rápido. Primero la identidad, después la automatización.
+Tesis: si tu marca no tiene claridad, la IA solo va a producir ruido más rápido. Primero hay que saber quién eres.
 Ángulo propio: cómo Germán usa IA en su propio trabajo sin perder humanidad.
 
 ### De donantes a personas: lo que aprendí rediseñando una marca con propósito

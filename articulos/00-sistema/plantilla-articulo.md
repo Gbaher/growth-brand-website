@@ -40,9 +40,20 @@ url: ""
 5. Qué hacer mañana. Algo aplicable sin necesidad de contratar a nadie.
 6. Cierre. Una frase que se quede, y el puente a la llamada a la acción.
 
+## Transcripción
+
+Pega aquí la transcripción de tu nota de voz, sin corregir. Es la materia prima del borrador.
+
 ## Borrador
 
-Escribir aquí.
+Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar tus frases.
+
+## Antes de pasar a listos
+
+- [ ] Corrí `./articulos/revisar.sh` y resolví lo que marcó
+- [ ] Cada idea aparece una sola vez
+- [ ] No hay ninguna frase que no diría en voz alta
+- [ ] Lo leí en voz alta completo
 
 ## Notas y fuentes
 

@@ -11,6 +11,12 @@ Tesis: una línea.
 Ángulo propio: la experiencia o mirada que la hace única.
 ```
 
+## En desarrollo
+
+### El manual de marca murió. Empieza la marca agéntica.
+IA · Pilar · Pymes, consultores y marcas personales
+Archivo: `02-en-desarrollo/2026-09-marca-agentica.md`
+
 ## Prioridad alta
 
 Estas cinco forman el primer bloque. Presentan la metodología y el sistema, y todos los artículos que vengan después van a enlazar a ellas.

@@ -79,7 +79,11 @@ Lo que aporta: dato propio (40 a 45 manuales), la analogía de los gobiernos que
 
 Lo que aporta: el manual se entrega a terceros que lo interpretan como quieren y nadie controla la ejecución. Falta un detalle visual concreto de cómo quedó aplicado.
 
-## Borrador
+### Parte 3. Cuándo se dio cuenta de que el manual ya no alcanzaba
+
+> Me di cuenta que el manual de marca ya no alcanza cuando empiezo a trabajar con herramientas de inteligencia artificial y cuando incluso las propias herramientas de diseño como Illustrator, Photoshop o ya están aplicando inteligencia artificial. Entonces, la forma de construcción de un manual de marca se divide en varias partes y también la instrucción cambia. Por ejemplo, para desarrollar una página web necesitamos desarrollar un handoff. Un handoff de marca es un elemento que ayuda a entender cómo se puede diseñar el UX de la página web y de su marca específicamente. Eso era hasta uno o dos años atrás. Hoy en día... La inteligencia artificial entiende, acepta, interpreta e implementa la marca de manera correcta. Y esto nos obliga a entender que debemos desarrollar nuevos mecanismos de inteligencia para subir la marca en distintos tipos de elementos, ya sea con agentes de inteligencia artificial o con elementos de desarrollo de marca como Canva. donde ya se puede subir la marca o eh, Google a través de su herramienta poli... Ay, no me acuerdo cómo se llama.
+
+Lo que aporta: el momento del cambio es personal (trabajar con IA) y la idea de "subir la marca" a las herramientas. Canva y Google ya piden que cargues tu marca. Pendiente confirmar el nombre de la herramienta de Google. "Handoff" es jerga que la audiencia no conoce, hay que explicarlo en simple o dejarlo fuera.
 
 Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar tus frases.
 
@@ -93,6 +97,9 @@ Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar
 - [ ] Lo leí en voz alta completo
 
 ## Notas y fuentes
+
+- Tensión a resolver entre la parte 2 y la parte 3. En la 2 la IA aplica la marca a su manera, como el imprentero. En la 3 la IA "implementa la marca de manera correcta". Las dos cosas pueden ser ciertas si la tesis es que la IA la aplica bien solo cuando la marca está cargada con instrucciones claras.
+- "Subir la marca" es una expresión simple y concreta. Sirve para explicar la marca agéntica sin tecnicismos.
 
 - Puente que sale de la parte 2: antes el manual se lo pasaban al imprentero y cada uno lo aplicaba a su manera. Hoy se lo pasan a la IA y pasa lo mismo. La IA es el nuevo proveedor, y sin instrucciones claras también interpreta la marca como quiere.
 

@@ -67,7 +67,11 @@ Graba respondiendo estas preguntas en el orden que te salga, como si se lo expli
 
 ## Transcripción
 
-Pega aquí la transcripción de la nota de voz, sin corregir.
+### Parte 1. Cuántos manuales hizo y cuántos se siguen usando
+
+> A lo largo de mi carrera he tenido la oportunidad de trabajar con muchas marcas y he creado su manual de marca. Yo creo que alrededor de unos 40, 45 manuales de marca he creado desde que estoy trabajando en esto. Creo que hoy en día no muchos de estos manuales se sigue usando porque generalmente cuando hay una gestión nueva viene una agencia de publicidad y cambia todo. Y eso es lo que hace que una marca pierda la consistencia y la estructura de la creación de su marca. Es como los gobiernos en los países eh, sudamericanos. Cuando asume un presidente generalmente deshace todo lo que hizo el, el, el gobierno anterior. Y eso hace que un país no tenga un desarrollo a largo plazo. Es una analogía simple, pero me ha pasado con algunas marcas. Entonces, cada vez que construyo un manual de marca, trato de dejar la claridad para que las personas entiendan cómo aplicarlo. Y otro faltante importante es que dentro de la empresa no hay un responsable de la aplicación de la marca. Y esto hace que al final no se tomen las decisiones correctas en la implementación de la marca a pesar de tener un manual de marca.
+
+Lo que aporta: dato propio (40 a 45 manuales), la analogía de los gobiernos que deshacen lo anterior y dos causas concretas de por qué el manual muere. Llega una gestión nueva con otra agencia, y nadie dentro de la empresa es responsable de la marca.
 
 ## Borrador
 
@@ -83,6 +87,8 @@ Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar
 - [ ] Lo leí en voz alta completo
 
 ## Notas y fuentes
+
+- Giro que salió en la parte 1: el manual no muere por ser un PDF. Muere porque nadie lo cuida y porque cada gestión nueva empieza de cero. La marca agéntica puede responder a eso, porque guarda la memoria de la marca y la sigue aplicando aunque cambie el equipo. Conviene que la tesis final recoja esta idea.
 
 - Oportunidad de propiedad intelectual: "Marca agéntica" como concepto propio y como posible servicio. Un entregable que reemplace al manual tradicional, pensado para personas y para agentes.
 - Evitar el tono de "todo lo anterior está muerto". El título provoca, pero el texto tiene que ser justo con el trabajo de diseño.

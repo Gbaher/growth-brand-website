@@ -1,10 +1,10 @@
 ---
-titulo: ""
+titulo: "Hice manuales de marca durante veinte años. Ya no los haría igual."
 slug: "marca-agentica"
-descripcion: ""
+descripcion: "Hice más de 40 manuales de marca y casi ninguno se usa. Qué cambia cuando tu marca tiene que trabajar con inteligencia artificial."
 pilar: "ia"
 tipo: "pilar"
-estado: "en-desarrollo"
+estado: "en-desarrollo"  # borrador 1 listo para revisión
 idioma: "es"
 audiencia: "pymes, consultores y marcas personales"
 palabra-clave: "marca agéntica"
@@ -111,9 +111,79 @@ Lo que aporta: tres cosas que hay que darle a la IA. Quién es la marca (identid
 
 Ojo: esta parte suena distinta al resto de las notas de voz. Tiene frases más armadas y varias de las marcas de la guía de voz ("ya no solo se trata de", "sistema vivo y dinámico", "fundamentales", tres pilares). Si fue leída, conviene regrabarla contándola con sus palabras. El vocabulario técnico (API, legibles por máquinas) hay que bajarlo para pymes. No se usa como muestra de voz.
 
+### Parte 8. Qué está haciendo con su propia marca
+
+> Hoy en día estoy preparando mi propia marca para que sea agéntica. Eh, desde hace años he evitado estar en redes sociales por una falta de estrategia clara. Hoy en día he estado definiendo cuál es mi propósito, qué quiero hacer y cómo quiero hacer para ayudar a las marcas a ser mucho más eh, entendibles, humanas y conectadas. Y esto a través de sistemas que hoy se están desarrollando cada día a través de inteligencia artificial. Pero también esto involucra un cambio interno para entender justamente cuál es la voz, el tono y la forma de comunicar. Entonces, mi marca hoy en día está en base a desarrollar un sistema que pueda aplicarse, que es el Feeling Doing Thinking, para ayudar a las empresas y a las personas a conectar sus mensajes de una manera mucho más humana, para evitar ese tono mercantilista que encontramos en la mayoría de las comunicaciones de marca. Y eso estoy haciendo hoy con mi marca. Mi marca hoy en día es una marca mucho más humana que ayuda a las personas a conectar y que se aplica a través de tecnologías como la inteligencia artificial, las automatizaciones y los embudos de conversión.
+
+Lo que aporta: la confesión de haber evitado las redes por falta de estrategia y el cambio interno. Es lo más humano de toda la nota.
+
 ## Borrador
 
-Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar tus frases.
+# Hice manuales de marca durante veinte años. Ya no los haría igual.
+
+Yo creo que en mi carrera he hecho unos 40 o 45 manuales de marca. Si hoy me preguntas cuántos se siguen usando, la respuesta me incomoda. Muy pocos.
+
+Casi nunca fue por un problema de diseño. Lo que pasa es otra cosa, y la vi repetirse muchas veces.
+
+## Por qué los manuales terminan en un cajón
+
+Llega una gestión nueva a la empresa. Con ella llega una agencia de publicidad nueva, y la agencia cambia todo. La marca pierde la consistencia que había costado años construir.
+
+Es lo mismo que pasa con los gobiernos en Sudamérica. Asume un presidente y lo primero que hace es deshacer lo que hizo el anterior. Así ningún país logra desarrollarse a largo plazo. Es una analogía simple, pero me ha pasado con varias marcas.
+
+Hay otro problema, más silencioso. Dentro de la empresa casi nunca hay alguien responsable de aplicar la marca. El manual existe, pero nadie lo cuida. Y al final las decisiones se toman igual, solo que sin criterio.
+
+Me acuerdo de un manual que hice para una empresa y que prácticamente no se usó. Se lo pasaron a los proveedores, a la imprenta, a los que hacen las gigantografías, y cada uno lo aplicó a su manera. Nadie controló cómo se bajaba el manual a la realidad.
+
+## La IA es el nuevo proveedor
+
+Me di cuenta de que el manual ya no alcanzaba cuando empecé a trabajar con inteligencia artificial. Hoy hasta Illustrator y Photoshop la usan. Canva te pide que subas tu marca. Google tiene una herramienta, Pomelli, que lee tu web y arma el ADN de tu marca para crear piezas.
+
+Entonces pasa algo curioso. Lo que antes hacía el imprentero con tu manual, hoy lo hace la IA. Recibe tu marca y la aplica. Si le das instrucciones claras, la aplica bien y muy rápido. Si le das un PDF con colores y tipografías, hace lo mismo que el proveedor y la interpreta a su manera.
+
+Un manual tradicional se escribió pensando en diseñadores. Dice qué color usar, qué tipografía, cuánto espacio dejar alrededor del logo. Pero no dice cómo habla la marca, qué siente o qué nunca diría. Y eso es justamente lo que una IA necesita saber para trabajar por ti.
+
+## Qué es una marca agéntica
+
+Una marca agéntica es una marca que puede trabajar sola. Las herramientas de inteligencia artificial la entienden y la aplican sin que tú estés encima, y sigue siendo ella misma.
+
+Para eso la IA tiene que conocer su personalidad, su tono y su voz. Tiene que saber qué valores tiene la marca, qué siente y cómo piensa. Lo que hay que hacer, en el fondo, es humanizar la marca.
+
+Y hay una razón muy simple para humanizarla. Las redes sociales no se hicieron para las marcas, se hicieron para las personas. Una marca que entra ahí solo a vender no encaja. La que encaja es la que enseña, conversa y genera lazos con la gente.
+
+Aquí entra Feeling • Doing • Thinking™, la metodología con la que trabajo. Una marca humana hace sentir algo, hace hacer algo y hace pensar algo. Cuando eso está claro y escrito, la IA tiene de dónde agarrarse.
+
+Cuando está bien construida, la marca agéntica se comporta de una forma que yo resumo como fit, sexy and smart. Es sexy porque seduce con una comunicación humana, y eso nace del Feeling. Es fit porque se mueve rápido y se adapta, que es el Doing. Y es smart porque repite procesos inteligentes sin perder la coherencia, que es el Thinking.
+
+## Lo que estoy haciendo con mi propia marca
+
+Te voy a ser sincero. Durante años evité estar en redes sociales. No tenía una estrategia clara y no quería publicar por publicar.
+
+Hoy estoy preparando mi marca para que sea agéntica, y eso me obligó a hacer un cambio interno. Tuve que definir mi propósito y cómo quiero ayudar a las marcas. También tuve que entender cuál es mi voz, mi tono y mi forma de comunicar.
+
+Armé una guía que le explica a la IA cómo hablo y qué nunca diría. Guardo transcripciones de mis notas de voz para que aprenda mis expresiones. Y uso un revisor que me avisa cuando un texto empieza a sonar a máquina. Este artículo salió así, de una nota de voz mía.
+
+Mi marca hoy se apoya en Feeling • Doing • Thinking™ para ayudar a empresas y personas a comunicar de una manera más humana, lejos del tono mercantilista que tiene la mayoría de las marcas. Y lo aplico con inteligencia artificial, automatizaciones y embudos de conversión.
+
+## Qué puedes hacer mañana
+
+Para empezar no necesitas contratar a nadie. Toma una hoja y escribe sobre tu marca.
+
+Primero, quién es. Cómo habla, qué valores tiene, qué quieres que la gente sienta cuando la ve.
+
+Después, qué está pasando ahora. Qué vendes este mes, en qué temporada estás, qué te están preguntando tus clientes.
+
+Y por último, qué nunca haría. Las palabras que no usaría, los temas que no tocaría, las promesas que no haría.
+
+Con esa hoja lista, haz una prueba. Pídele a tu IA que le responda a un cliente que se queja, primero sin la hoja y después con ella. Compara las dos respuestas y vas a ver la diferencia entre una marca que la IA interpreta y una marca que la IA entiende.
+
+## El manual no muere si alguien lo cuida
+
+No estoy diciendo que el diseño ya no importe. El logo, los colores y la tipografía siguen siendo la cara de tu marca. Pero hoy la cara sola no alcanza.
+
+Durante veinte años vi manuales que se perdían porque nadie los cuidaba. La marca agéntica puede ser ese responsable que siempre faltó. Guarda la memoria de la marca y la sigue aplicando aunque cambie el gerente, la agencia o el proveedor.
+
+Si quieres saber qué tan lista está tu marca para trabajar con IA, escríbeme. Hacemos un Brand Diagnosis y lo vemos juntos.
 
 ## Antes de pasar a listos
 
@@ -125,6 +195,8 @@ Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar
 - [ ] Lo leí en voz alta completo
 
 ## Notas y fuentes
+
+- Pendientes del borrador 1. Confirmar que la herramienta de Google es Pomelli. Sumar, si aparece, un detalle visual del caso de la imprenta. Confirmar que el párrafo sobre la guía de voz, las muestras y el revisor describe bien lo que hace Germán, porque lo propuso Claude y no salió de la nota de voz. Confirmar la definición de marca agéntica.
 
 - Germán habla naturalmente con la forma "no es X, es Y". En esta parte aparece dos veces. En el borrador se conserva una sola, probablemente la de las redes sociales.
 

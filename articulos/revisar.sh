@@ -12,7 +12,7 @@ archivo="$1"
 total=0
 
 # Solo se revisa el cuerpo. Se ignora el frontmatter y todo lo que no esté en la sección "## Borrador"
-cuerpo=$(awk '/^## Borrador/{b=1; next} /^## /{b=0} b' "$archivo")
+cuerpo=$(awk '/^## Borrador/{b=1; next} /^## (Antes de pasar a listos|Notas y fuentes|Reutilización)/{b=0} b' "$archivo")
 if [ -z "$cuerpo" ]; then
   cuerpo=$(awk 'NR==1 && /^---$/{f=1; next} f && /^---$/{f=0; next} !f' "$archivo")
 fi

@@ -85,6 +85,34 @@ Lo que aporta: el manual se entrega a terceros que lo interpretan como quieren y
 
 Lo que aporta: el momento del cambio es personal (trabajar con IA) y la idea de "subir la marca" a las herramientas. Canva y Google ya piden que cargues tu marca. Pendiente confirmar el nombre de la herramienta de Google. "Handoff" es jerga que la audiencia no conoce, hay que explicarlo en simple o dejarlo fuera.
 
+### Parte 4. Qué es una marca agéntica
+
+> Para mí una marca agéntica es una marca que tiene que ser fit, sexy and smart. Fit significa que puede desarrollarse de manera rápida. Sexy, que utiliza elementos de comunicación humanos que seducen al consumidor. Y smart, smart que aplica eh, procesos inteligentes repetitivos, pero que mantienen una coherencia. Lograr todo esto hace que una marca sea agéntica.
+
+Lo que aporta: un marco propio y fácil de recordar, Fit, Sexy, Smart. Falta una definición en lenguaje simple de qué es una marca agéntica.
+
+### Parte 5. Qué necesita saber una IA que un manual no le dice
+
+> Lo que necesita saber la IA sobre una marca es entender cuál es su personalidad, cuál es su tono, su voz. Básicamente lo que tenemos que hacer es humanizar la marca. ¿Por qué humanizamos hoy la marca? Porque una marca tiene valores, una marca tiene sentimientos, una marca tiene una forma de pensar. Prácticamente el desafío es cómo humanizamos la marca. ¿Y por qué hacemos esto? Simplemente porque las redes sociales no se hicieron para las marcas, se hicieron para las personas. Y es ahí donde tiene que encajar la marca. Una marca no tiene que llegar a vender, tiene que llegar a enamorar, tiene que enseñar, tiene que educar, tiene que hablar, tiene que generar lazos emocionales con sus clientes. Y eso es lo que hoy en día debemos trabajar como desafío. ¿Cómo encajamos en redes sociales con una marca que no venda todo el tiempo, sino que enamore, una marca que genere conversación, una marca que se guarde o se comparta. Todos esos desafíos tenemos que mantenerlos en redes sociales.
+
+Lo que aporta: la IA necesita conocer la personalidad, el tono, la voz, los valores, los sentimientos y la forma de pensar de la marca. Es decir, la marca humanizada, que es Feeling • Doing • Thinking™. La frase "las redes sociales no se hicieron para las marcas, se hicieron para las personas" es muy suya. La segunda mitad se va hacia redes sociales, que queda para otro artículo.
+
+### Parte 6. Confirmación sobre Fit, Sexy, Smart
+
+> Respondiendo a la parte 1, ¿te sirve la relación entre fit, sexy and smart y feeling, doing, thinking? Claro que sí. Me sirve como ejemplo y si encaja perfectamente en ese concepto, yo lo dejaría.
+
+Decisión: se usa la relación. Sexy con Feeling, Fit con Doing, Smart con Thinking. Feeling • Doing • Thinking™ es el método y Fit, Sexy, Smart es cómo se comporta la marca cuando está lista para trabajar con IA.
+
+### Parte 7. La nueva era y los tres pilares de la marca agéntica
+
+> Esta es una nueva era, porque la marca deja de ser un manual estático en PDF y se convierte en un sistema vivo y dinámico. Ya no solo se trata de diseñar para que se entiendan los diseñadores o redactores humanos. Hoy estamos diseñando para que los agentes de inteligencia artificial comprendan su ADN. Y ese ADN tiene tono, tiene valores, tiene estilo visual, tiene restricciones. y puedan tomar decisiones autónomas alineadas con la identidad de la empresa. Para que esto funcione, el ecosistema de una marca agéntica tiene que apoyarse en tres pilares que para mí son fundamentales. El primero es la identidad codificada. ¿Cuáles son las reglas de marca legibles por máquinas, vía API o prompt o estructurados? Después está el contexto en el tiempo real, que son datos conectados para que la IA sepa qué responder según el inventario, la temporada o el comportamiento del cliente. Y también es importante los límites éticos y de seguridad. ¿Cuáles van a ser estos filtros claros para que la IA actúe de manera autónoma sin salirse de los valores de la empresa?
+
+Lo que aporta: tres cosas que hay que darle a la IA. Quién es la marca (identidad), qué está pasando ahora (contexto) y qué nunca haría (límites). Además, la idea del ADN de la marca.
+
+Ojo: esta parte suena distinta al resto de las notas de voz. Tiene frases más armadas y varias de las marcas de la guía de voz ("ya no solo se trata de", "sistema vivo y dinámico", "fundamentales", tres pilares). Si fue leída, conviene regrabarla contándola con sus palabras. El vocabulario técnico (API, legibles por máquinas) hay que bajarlo para pymes. No se usa como muestra de voz.
+
+## Borrador
+
 Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar tus frases.
 
 ## Antes de pasar a listos
@@ -100,7 +128,7 @@ Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar
 
 - Germán habla naturalmente con la forma "no es X, es Y". En esta parte aparece dos veces. En el borrador se conserva una sola, probablemente la de las redes sociales.
 
-- Confirmado por Germán. Fit, Sexy, Smart se lee sobre Feeling • Doing • Thinking™. Sexy con Feeling, Fit con Doing, Smart con Thinking. Si se confirma, Feeling • Doing • Thinking™ sigue siendo el método y Fit, Sexy, Smart describe cómo se comporta la marca cuando está bien construida. Así no compiten dos marcos.
+- Confirmado por Germán. Fit, Sexy, Smart se lee sobre Feeling • Doing • Thinking™. Sexy con Feeling, Fit con Doing, Smart con Thinking. Feeling • Doing • Thinking™ sigue siendo el método y Fit, Sexy, Smart describe cómo se comporta la marca cuando está bien construida. Así no compiten dos marcos.
 
 - Tensión a resolver entre la parte 2 y la parte 3. En la 2 la IA aplica la marca a su manera, como el imprentero. En la 3 la IA "implementa la marca de manera correcta". Las dos cosas pueden ser ciertas si la tesis es que la IA la aplica bien solo cuando la marca está cargada con instrucciones claras.
 - "Subir la marca" es una expresión simple y concreta. Sirve para explicar la marca agéntica sin tecnicismos.

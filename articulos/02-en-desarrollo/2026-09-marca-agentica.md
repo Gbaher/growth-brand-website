@@ -73,6 +73,12 @@ Graba respondiendo estas preguntas en el orden que te salga, como si se lo expli
 
 Lo que aporta: dato propio (40 a 45 manuales), la analogía de los gobiernos que deshacen lo anterior y dos causas concretas de por qué el manual muere. Llega una gestión nueva con otra agencia, y nadie dentro de la empresa es responsable de la marca.
 
+### Parte 2. Un manual que terminó en un cajón
+
+> Desarrollé un manual de marca para una empresa, pero lamentablemente ese manual de marca poco se utilizó. Básicamente el manual de marca se lo pasaron a los proveedores y los proveedores, que son las personas que imprimen, las que hacen gigantografía, lo aplicaron a su manera. Esto evidencia que no hay un control al momento de hacer una ejecución de la bajada de un manual de marca.
+
+Lo que aporta: el manual se entrega a terceros que lo interpretan como quieren y nadie controla la ejecución. Falta un detalle visual concreto de cómo quedó aplicado.
+
 ## Borrador
 
 Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar tus frases.
@@ -87,6 +93,8 @@ Se arma a partir de la transcripción. Ordenar, cortar y aclarar, pero conservar
 - [ ] Lo leí en voz alta completo
 
 ## Notas y fuentes
+
+- Puente que sale de la parte 2: antes el manual se lo pasaban al imprentero y cada uno lo aplicaba a su manera. Hoy se lo pasan a la IA y pasa lo mismo. La IA es el nuevo proveedor, y sin instrucciones claras también interpreta la marca como quiere.
 
 - Giro que salió en la parte 1: el manual no muere por ser un PDF. Muere porque nadie lo cuida y porque cada gestión nueva empieza de cero. La marca agéntica puede responder a eso, porque guarda la memoria de la marca y la sigue aplicando aunque cambie el equipo. Conviene que la tesis final recoja esta idea.
 

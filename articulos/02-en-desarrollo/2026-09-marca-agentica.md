@@ -196,7 +196,7 @@ Si quieres saber qué tan lista está tu marca para trabajar con IA, escríbeme.
 
 ## Notas y fuentes
 
-- Pendientes del borrador 1. Confirmar que la herramienta de Google es Pomelli. Sumar, si aparece, un detalle visual del caso de la imprenta. Confirmar que el párrafo sobre la guía de voz, las muestras y el revisor describe bien lo que hace Germán, porque lo propuso Claude y no salió de la nota de voz. Confirmar la definición de marca agéntica.
+- Pendientes del borrador 1. Pomelli confirmado por Germán. Sumar, si aparece, un detalle visual del caso de la imprenta. Confirmar que el párrafo sobre la guía de voz, las muestras y el revisor describe bien lo que hace Germán, porque lo propuso Claude y no salió de la nota de voz. Germán va a dictar de nuevo la definición de marca agéntica.
 
 - Germán habla naturalmente con la forma "no es X, es Y". En esta parte aparece dos veces. En el borrador se conserva una sola, probablemente la de las redes sociales.
 

@@ -123,6 +123,12 @@ Lo que aporta: la confesión de haber evitado las redes por falta de estrategia 
 
 Lo que aporta: la marca agéntica como un ecosistema de personas, procesos e IA, y la metáfora del país con su propio gobierno, donde todos sus habitantes, incluidos los agentes, entienden cómo es la marca. Conecta con la analogía de los gobiernos de la parte 1. Reemplaza la definición propuesta por Claude.
 
+### Parte 10. Detalle del caso de la imprenta
+
+> Una vez mandamos a imprimir un logo y el proveedor le puso un ribete alrededor del logo para que se vea mejor. Eh, él tomó sus propias decisiones. Otras veces también sucede que los proveedores no tienen eh, colores. Por ejemplo, mandar a bordar una polera con un color azul que sea lo más parecido al color de la marca, a veces es casi imposible.
+
+Lo que aporta: la imagen concreta que faltaba. El ribete que nadie pidió y el azul imposible de bordar. "Él tomó sus propias decisiones" es el puente directo con la IA.
+
 ## Borrador
 
 # Hice manuales de marca durante veinte años. Ya no los haría igual.
@@ -141,11 +147,13 @@ Hay otro problema, más silencioso. Dentro de la empresa casi nunca hay alguien 
 
 Me acuerdo de un manual que hice para una empresa y que prácticamente no se usó. Se lo pasaron a los proveedores, a la imprenta, a los que hacen las gigantografías, y cada uno lo aplicó a su manera. Nadie controló cómo se bajaba el manual a la realidad.
 
+Una vez mandamos a imprimir un logo y el proveedor le puso un ribete alrededor para que se viera mejor. Nadie se lo pidió. Él tomó sus propias decisiones. Otras veces el problema es que el proveedor no tiene los colores. Mandar a bordar una polera con un azul parecido al de la marca a veces es casi imposible.
+
 ## La IA es el nuevo proveedor
 
 Me di cuenta de que el manual ya no alcanzaba cuando empecé a trabajar con inteligencia artificial. Hoy hasta Illustrator y Photoshop la usan. Canva te pide que subas tu marca. Google tiene una herramienta, Pomelli, que lee tu web y arma el ADN de tu marca para crear piezas.
 
-Entonces pasa algo curioso. Lo que antes hacía el imprentero con tu manual, hoy lo hace la IA. Recibe tu marca y la aplica. Si le das instrucciones claras, la aplica bien y muy rápido. Si le das un PDF con colores y tipografías, hace lo mismo que el proveedor y la interpreta a su manera.
+Entonces pasa algo curioso. Lo que antes hacía el imprentero con tu manual, hoy lo hace la IA. Recibe tu marca y la aplica. Si le das instrucciones claras, la aplica bien y muy rápido. Si le das un PDF con colores y tipografías, hace lo mismo que el proveedor del ribete. Toma sus propias decisiones.
 
 Un manual tradicional se escribió pensando en diseñadores. Dice qué color usar, qué tipografía, cuánto espacio dejar alrededor del logo. Pero no dice cómo habla la marca, qué siente o qué nunca diría. Y eso es justamente lo que una IA necesita saber para trabajar por ti.
 
@@ -206,7 +214,7 @@ Si quieres saber qué tan lista está tu marca para trabajar con IA, escríbeme.
 
 ## Notas y fuentes
 
-- Pendientes del borrador 1. Pomelli confirmado por Germán. Sumar, si aparece, un detalle visual del caso de la imprenta. Confirmar que el párrafo sobre la guía de voz, las muestras y el revisor describe bien lo que hace Germán, porque lo propuso Claude y no salió de la nota de voz. Definición de marca agéntica reemplazada por la de la parte 9. La frase final sobre los gobiernos la propuso Claude para cerrar el círculo con la parte 1, falta que Germán la apruebe. Se dejó fuera "las marcas que entren primero tendrán los mejores resultados" porque es una promesa difícil de sostener.
+- Pendientes del borrador 1. Pomelli confirmado por Germán. Caso de la imprenta completado con la parte 10. Confirmar que el párrafo sobre la guía de voz, las muestras y el revisor describe bien lo que hace Germán, porque lo propuso Claude y no salió de la nota de voz. Definición de marca agéntica reemplazada por la de la parte 9. La frase final sobre los gobiernos la propuso Claude para cerrar el círculo con la parte 1, falta que Germán la apruebe. Se dejó fuera "las marcas que entren primero tendrán los mejores resultados" porque es una promesa difícil de sostener.
 
 - Germán habla naturalmente con la forma "no es X, es Y". En esta parte aparece dos veces. En el borrador se conserva una sola, probablemente la de las redes sociales.
 

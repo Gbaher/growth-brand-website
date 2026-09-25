@@ -19,6 +19,8 @@ Se completa a medida que aparezcan en las muestras.
 - Explicar con analogías de la vida pública, como los gobiernos que deshacen lo del anterior. Y aclarar que es simple ("es una analogía simple, pero...").
 - "Al final" para llegar a la consecuencia.
 - Frases que empiezan con "Y" para sumar una idea más.
+- Palabras de su español cotidiano, como "polera" o "gigantografía". Se conservan aunque en otros países se diga distinto.
+- Casos contados con un detalle físico concreto, como el ribete alrededor del logo o el azul que no se puede bordar.
 
 ## Muestras
 

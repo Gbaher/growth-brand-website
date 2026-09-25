@@ -129,6 +129,12 @@ Lo que aporta: la marca agéntica como un ecosistema de personas, procesos e IA,
 
 Lo que aporta: la imagen concreta que faltaba. El ribete que nadie pidió y el azul imposible de bordar. "Él tomó sus propias decisiones" es el puente directo con la IA.
 
+### Parte 11. Regrabación de la parte 7, qué hay que darle a la IA
+
+> Lo primero que tenemos que entender para que eh, tu marca que tiene la IA sobre quién es tu marca, para que entienda, es eh, exactamente darle todas las directrices para que la IA identifique exactamente qué representa esta marca, cómo piensa, cómo habla, cómo se comunica, cuáles son sus patrones de comunicación, lo que sí debe decir y lo que no debe decir, cuál es su lenguaje, cuál es su personalidad. Son un montón de variables que hay que ponerlas dentro de un documento para que sean entendibles. ¿Qué tiene que entender sobre lo que está haciendo de tu negocio? Bueno, para eso eh, hay que darle toda la información necesaria para que vincule ese tipo de acciones con la marca. cosas nunca deberían decir, hay que darle ejemplos de lo que no se debe decir, lo que no se debe hacer y lo que no es parte de comunicación de la marca. Por ejemplo, cuando vemos publicaciones de inteligencia artificial, vemos que son todas genéricas, todas se parecen, todas tienen la misma estructura, a veces hasta el mismo color. Y es por eso, porque nosotros no alimentamos con la información suficiente para que la IA entienda y haga lo que tenga que hacer. Nosotros no le damos los límites, lo dejamos a libre pensamiento. Y eso es lo que hay que, hay, eso es lo que no hay que hacer. Tenemos que darle la información correcta para obtener los resultados que estamos esperando.
+
+Lo que aporta: reemplaza a la parte 7 con palabras propias. "Un montón de variables que hay que ponerlas dentro de un documento", las publicaciones de IA que se parecen todas y "lo dejamos a libre pensamiento". La sección práctica del borrador se reescribe con esto.
+
 ## Borrador
 
 # Hice manuales de marca durante veinte años. Ya no los haría igual.
@@ -185,15 +191,13 @@ Mi marca hoy se apoya en Feeling • Doing • Thinking™ para ayudar a empresa
 
 ## Qué puedes hacer mañana
 
-Para empezar no necesitas contratar a nadie. Toma una hoja y escribe sobre tu marca.
+Lo primero es darle a la IA todas las directrices para que entienda qué representa tu marca. Cómo piensa, cómo habla, cuál es su personalidad, cuál es su lenguaje. Lo que sí debe decir y lo que no. Son un montón de variables, y hay que ponerlas en un documento que se entienda.
 
-Primero, quién es. Cómo habla, qué valores tiene, qué quieres que la gente sienta cuando la ve.
+Después hay que contarle qué está pasando en tu negocio. Qué vendes este mes, en qué temporada estás, qué te preguntan tus clientes. Con esa información la IA puede vincular lo que hace con tu marca.
 
-Después, qué está pasando ahora. Qué vendes este mes, en qué temporada estás, qué te están preguntando tus clientes.
+Y hay que darle ejemplos de lo que no se dice y no se hace. Esta es la parte que casi todos se saltan. Mira las publicaciones hechas con IA que ves todos los días. Son todas genéricas, se parecen entre sí, tienen la misma estructura y a veces hasta el mismo color. Eso pasa porque no la alimentamos con suficiente información. No le damos límites y la dejamos a libre pensamiento. Es el mismo proveedor del ribete, solo que ahora trabaja mucho más rápido.
 
-Y por último, qué nunca haría. Las palabras que no usaría, los temas que no tocaría, las promesas que no haría.
-
-Con esa hoja lista, haz una prueba. Pídele a tu IA que le responda a un cliente que se queja, primero sin la hoja y después con ella. Compara las dos respuestas y vas a ver la diferencia entre una marca que la IA interpreta y una marca que la IA entiende.
+Con ese documento listo, haz una prueba. Pídele a tu IA que le responda a un cliente que se queja, primero sin el documento y después con él. Compara las dos respuestas. Al final es simple. Si le das la información correcta, obtienes el resultado que esperas.
 
 ## El manual no muere si alguien lo cuida
 
@@ -214,6 +218,7 @@ Si quieres saber qué tan lista está tu marca para trabajar con IA, escríbeme.
 
 ## Notas y fuentes
 
+- Parte 7 regrabada en la parte 11 y sección práctica reescrita con sus palabras. La frase "solo que ahora trabaja mucho más rápido" la agregó Claude para conectar con el caso del ribete.
 - Pendientes del borrador 1. Pomelli confirmado por Germán. Caso de la imprenta completado con la parte 10. Confirmar que el párrafo sobre la guía de voz, las muestras y el revisor describe bien lo que hace Germán, porque lo propuso Claude y no salió de la nota de voz. Definición de marca agéntica reemplazada por la de la parte 9. La frase final sobre los gobiernos la propuso Claude para cerrar el círculo con la parte 1, falta que Germán la apruebe. Se dejó fuera "las marcas que entren primero tendrán los mejores resultados" porque es una promesa difícil de sostener.
 
 - Germán habla naturalmente con la forma "no es X, es Y". En esta parte aparece dos veces. En el borrador se conserva una sola, probablemente la de las redes sociales.

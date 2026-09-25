@@ -20,6 +20,7 @@ Se completa a medida que aparezcan en las muestras.
 - "Al final" para llegar a la consecuencia.
 - Frases que empiezan con "Y" para sumar una idea más.
 - Palabras de su español cotidiano, como "polera" o "gigantografía". Se conservan aunque en otros países se diga distinto.
+- "Un montón de" para hablar de cantidad. "Lo dejamos a libre pensamiento" para decir que algo quedó sin reglas.
 - Casos contados con un detalle físico concreto, como el ribete alrededor del logo o el azul que no se puede bordar.
 
 ## Muestras
